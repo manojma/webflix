@@ -3,6 +3,7 @@
 
 Webflix is a Netflix clone made using ReactJS, Some APIs are also used such as Firebase for Authetication and The Movie Database(TMDB) to fetch dynamic movies and tv-shows list.
 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -94,9 +95,12 @@ Main Screen after Successful login
 
 ![App Screenshot](https://raw.githubusercontent.com/manojma/webflix/master/images/Demo/dash.png)
 
-Details for every movie is enabled on click
+Details for every movie is enabled on Selecting Movie
 
-![App Screenshot](https://raw.githubusercontent.com/manojma/webflix/master/images/Demo/details.gif)
+![App Screenshot](https://raw.githubusercontent.com/manojma/webflix/master/images/Demo/details.jpg) 
+
+![App Screenshot](https://raw.githubusercontent.com/manojma/webflix/master/images/Demo/details_2.jpg) 
+
 
 Mobile view (Responsive Application)
 
