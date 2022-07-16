@@ -1,7 +1,9 @@
 
 # Webflix
 
-Webflix is a Netflix clone made using ReactJS, Some APIs are also used such as Firebase for Authetication and The Movie Database(TMDB) to fetch dynamic movies and tv-shows list.
+Webflix is a Netflix clone made using ReactJS, Some APIs are also used such as Firebase for Authetication and The Movie Database(TMDB) to fetch dynamic movies and tv-shows list. Movie/TV details are also shown on selecting particular movie/tv.
+
+Check Live Website here: https://webflix-movies-tv.netlify.app
 
 
 # Getting Started with Create React App
